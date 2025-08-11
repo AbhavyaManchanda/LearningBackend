@@ -96,6 +96,7 @@ router.post('/login',
             user: {
                 username: user.username,
                 email: user.email
+                
             }
         });
 
